@@ -12,6 +12,3 @@ Console.WriteLine(max);
 
 Console.Write("min = ");
 Console.WriteLine(min);
-
-
-
